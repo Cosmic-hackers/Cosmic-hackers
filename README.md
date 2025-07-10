@@ -112,17 +112,3 @@ I'm **Siddu Yadagiri**, also known as **@Cosmic-hackers**, a **multi-domain expl
 
 ---
 
-### 🔧 How to Use
-
-1. Create a file in your GitHub profile repo named `README.md`.
-2. Paste the content above.
-3. Replace placeholders like `[#]` or add more links.
-4. Install tools like `GitHub Readme Stats`, `Streak Stats`, and `Activity Graph` via GitHub Actions or embed links directly.
-
-Would you like me to:
-
-* Add animations?
-* Include GitHub trophies?
-* Build a dark animated portfolio with your brand?
-
-Let me know and I’ll enhance it further!
