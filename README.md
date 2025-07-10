@@ -166,3 +166,112 @@ I'm a passionate [your profession/role] with expertise in [your main skills]. I 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
 </p>
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=AI%2FML+Engineer+%7C+Ethical+Hacker;Automation+%7C+RAGs+%7C+IoT+%7C+Langchain;Ollama+%2F+n8n+%2F+Whisper+%2F+Cybersecurity;Rebuilding+with+Code+%26+Truth" alt="Typing SVG" />
+</p>
+
+---
+
+# 🧠 Mr. ANONYMOUS
+
+> AI/ML Engineer · Ethical Hacker · IoT Innovator · Automation Builder  
+> Building futuristic tools with n8n, LangChain, RAGs, Ollama, and LMStudio
+
+---
+
+## 👨‍💻 Who am I?
+
+- 🎯 Passionate about secure, decentralized and intelligent systems  
+- 🧠 Working with Local LLMs (Whisper, Ollama, DeepSeek, Mistral)  
+- 🔄 Automating workflows with n8n and LangGraph  
+- 💾 Deploying AI on edge with IoT + Python + RAG pipelines  
+- 🔐 Ethical hacker with strong foundations in network/web hacking  
+- 🧪 Experimenting with Docker, FastAPI, and Python microservices  
+- 🌐 Skilled Web Developer: Full-stack with HTML, CSS, JS, Django, Flask  
+- 🗃️ Backend Proficiency: PostgreSQL, SQLite, ChromeDB, MySQL  
+- 🧱 Building secure backend APIs with Django REST Framework & Flask APIs  
+- 🔄 Pushing boundaries with AI voice agents, image transformers, blockchain tech
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ChromeDB-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-n8n-EF476F?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Currently Working On
+
+- 🌕 LunaGuard – AI for lunar landslide detection using Chandrayaan data (ISRO Hackathon)
+- 🔗 ShadowPulse – Blockchain fund distribution system with smart contracts
+- 🎙️ Omnix – AI voice assistant with 3D UI + Whisper + Ollama
+- 🔍 Deep Researcher – Local LLM + Web summarizer using DuckDuckGo + RAG
+- 🧬 Nebula Vision – Multimodal AI project converting audio into images
+
+---
+
+## 📦 Project Highlights
+
+```
+🔹 Omnix           | Voice assistant powered by local LLM + Whisper
+🔹 LunaGuard       | Moon data mining tool for ISRO using satellite images
+🔹 ShadowPulse     | Transparent fund distribution via Ethereum smart contracts
+🔹 Deep Researcher | Full-stack RAG tool using LMStudio or Ollama
+🔹 Sanatana AI     | Rebuilding ancient knowledge through decentralized tech
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cosmic-hackers&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github" />
+  </a>
+</p>
+
+---
+
+## 🧰 Developer Motto
+
+```
+Learn • Build • Break • Automate • Repeat
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cosmic-hackers&style=flat-square&color=brightgreen" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+!+%F0%9F%91%8B;Keep+Exploring+the+Code+Universe..." alt="Outro Typing" />
+</p>
