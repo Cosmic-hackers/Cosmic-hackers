@@ -393,3 +393,75 @@ Learn • Build • Break • Automate • Repeat
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+!+%F0%9F%91%8B;Keep+Exploring+the+Code+Universe..." alt="Outro Typing" />
 </p>
+
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Sai Charan! 
+
+### 🚀 AI/ML Engineer | Web Developer | Ethical Hacker | Automation Specialist
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=AI+Researcher;Full-Stack+Developer;Cybersecurity+Enthusiast;Automation+Wizard)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180"/>
+</div>
+
+## 🔥 Core Expertise
+
+<div align="center">
+  
+| **AI/ML** | **Web Dev** | **Security** | **Automation** |
+|-----------|------------|--------------|----------------|
+| LLMs (Ollama, DeepSeek) | Full-Stack JavaScript | Ethical Hacking | n8n/LangGraph |
+| Stable Diffusion | Django/Flask | Pen Testing | WhatsApp Bots |
+| Computer Vision | TypeScript | Bug Bounty | CI/CD Pipelines |
+| RAG Systems | React/Next.js | Network Security | AI Agents |
+
+</div>
+
+## 🛠️ Tech Stack
+
+### 🤖 AI/ML Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🌐 Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EE1C25?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+## 🏆 Notable Projects
+
+### 🌕 LunaGuard - AI for Lunar Landslide Detection
+[![LunaGuard](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=LunaGuard&theme=radical)](https://github.com/yourusername/LunaGuard)
+
+### 🧠 Omnix - AI Voice Assistant
+[![Omnix](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Omnix&theme=radical)](https://github.com/yourusername/Omnix)
+
+### 🔗 ShadowPulse - Blockchain Fund Distribution
+[![ShadowPulse](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ShadowPulse&theme=radical)](https://github.com/yourusername/ShadowPulse)
+
+## 🏆 Achievements
+
+```python
+achievements = {
+    "Hackathons": {
+        "Winner": ["NESSO GenAI Hackathon", "Google Solution Challenge"],
+        "Finalist": ["ISRO Space Apps Challenge"]
+    },
+    "Certifications": [
+        "ISRO AI/ML in Satellite Applications",
+        "Tata Problem Solving",
+        "Microsoft AI Engineer"
+    ],
+    "Research": "Published paper on AI for space applications"
+}
