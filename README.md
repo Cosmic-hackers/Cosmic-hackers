@@ -1,50 +1,67 @@
-## Hi there 👋
+<!-- GitHub Profile README for Mr. ANONYMOUS -->
 
-<!--
-**Cosmic-hackers/Cosmic-hackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <p align="center">
-  <img src="banner1.png" alt="Welcome to My GitHub!" width="100%" />
-</p> -->
-
-### 👋 Hi, I’m Siddu Yadagiri (aka Mr ANONYMOUS)
-
-- 🔭 Building: AI, Hacking, Blockchain, Robotics @ Cosmoss Innovations
-- 🎯 Recent Wins: ISRO Hackathon, Google Solution Challenge
-- 🧠 Exploring: Audio-to-Image AI, On-device LLMs, Blockchain Funds
-- ⚡ Fun Fact: Started hacking using just a mobile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Ethical+Hacker;IoT+Explorer+%7C+Web+Developer;Exploring+n8n%2C+Langchain%2C+Ollama%2C+RAGs;Building+for+the+Future..." alt="Typing SVG" />
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=tokyonight)
+<h1 align="center">Hi, I'm Mr. ANONYMOUS 👾</h1>
+<p align="center">🔐 Building intelligent, secure, and futuristic tech @ Cosmoss Innovations</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmic-hackers&theme=dark)](https://git.io/streak-stats)
-![Siddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=midnight-purple)
-![snake gif](https://github.com/Cosmic-hackers/Cosmic-hackers/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on: **LLM tools, IoT AI Systems, RAGs, n8n Automations**
+- 🧠 Learning: **LangChain | Ollama | Whisper | Blockchain Fund Distribution**
+- 🏆 Achievements: **ISRO Hackathon Winner | Google Solution Challenge Finalist**
+- ⚡ Fun Fact: **Started ethical hacking using just a mobile phone**
+
+---
+
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![n8n](https://img.shields.io/badge/-n8n-A020F0?style=flat&logo=n8n)
-![Langchain](https://img.shields.io/badge/-Langchain-05122A?style=flat&logo=data:image/svg+xml;base64,BASE64_ENCODED_LOGO)
-![Visitor Count](https://komarev.com/ghpvc/?username=Cosmic-hackers&color=red)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=AI+%2F+ML+Engineer;Ethical+Hacker+%7C+Web+Dev+%7C+IoT+Explorer;Exploring+RAGs%2C+LangChain%2C+n8n%2C+Ollama;Learning+Never+Stops+!)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-F53C3C?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cosmic-hackers&theme=tokyonight" />
+</p>
 
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidduyadagiri/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sidduyadagiri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📦 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cosmic-hackers&style=for-the-badge&color=brightgreen" />
+</p>
