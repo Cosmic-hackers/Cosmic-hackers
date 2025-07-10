@@ -4,7 +4,7 @@
 
 ---
 
-# 🧠 Mr. ANONYMOUS
+#  Mr. ANONYMOUS
 
 > AI/ML Engineer · Ethical Hacker · IoT Innovator · Automation Builder  
 > Building futuristic tools with n8n, LangChain, RAGs, Ollama, and LMStudio
