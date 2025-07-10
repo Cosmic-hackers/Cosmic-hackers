@@ -1,8 +1,13 @@
-# 🧠 Mr. ANONYMOUS
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=AI%2FML+Engineer+%7C+Ethical+Hacker;Automation+%7C+RAGs+%7C+IoT+%7C+Langchain;Ollama+%2F+n8n+%2F+Whisper+%2F+Cybersecurity;Rebuilding+with+Code+%26+Truth" alt="Typing SVG" />
 </p>
+
+---
+
+# 🧠 Mr. ANONYMOUS
+
+> AI/ML Engineer · Ethical Hacker · IoT Innovator · Automation Builder  
+> Building futuristic tools with n8n, LangChain, RAGs, Ollama, and LMStudio
 
 ---
 
@@ -18,15 +23,19 @@
 
 ---
 
-## 🛠️ Tech Skills
+## ⚙️ Tech Stack
 
-```
-Languages:    Python · JavaScript · TypeScript · C · HTML · CSS  
-Frameworks:   Flask · Django · Node.js · Tailwind · FastAPI  
-AI Tools:     LangChain · Ollama · Whisper · RAG · Hugging Face  
-DevOps:       Docker · Git · GitHub Actions · n8n · Ngrok  
-Security:     Burp Suite · Nmap · SQLmap · Kali Linux · OSINT
-```
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-n8n-EF476F?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -40,7 +49,7 @@ Security:     Burp Suite · Nmap · SQLmap · Kali Linux · OSINT
 
 ---
 
-## 📦 Projects Highlights
+## 📦 Project Highlights
 
 ```
 🔹 Omnix           | Voice assistant powered by local LLM + Whisper
@@ -53,22 +62,16 @@ Security:     Burp Suite · Nmap · SQLmap · Kali Linux · OSINT
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cosmic-hackers&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Cosmic-hackers&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 📍 Location
-
-```
-Based in:   Telangana, India  
-Languages:  English, Telugu, Python 😉
-```
+---```
 
 ---
 
