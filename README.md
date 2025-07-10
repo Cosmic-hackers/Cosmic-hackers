@@ -1,134 +1,116 @@
-# ✨ ULTIMATE GITHUB PROFILE README
-### **AI Engineer • Full-Stack Developer • Cybersecurity Specialist**
+# 🚀 COSMIC TECH EXPLORER README
+### **AI Architect • Full-Stack Visionary • Cybernetic Defender**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F718&width=650&lines=Building+the+Future+with+AI;Hacking+for+a+Better+Tomorrow;Automating+the+World+One+Script+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=09FA6E&width=700&lines=Crafting+Intelligence+Beyond+Code;Defending+Networks+in+the+Dark;Designing+Autonomous+AI+Experiences" alt="Typing Animation" />
 </div>
 
 ---
 
-## 👨‍💻 Cybernetic Profile
+## 👁️‍🗨️ Console Identity
 ```python
-class TechVisionary:
+class CosmicTech:
     def __init__(self):
-        self.name = "AI/ML Engineer | Ethical Hacker"
-        self.location = "Nagarkurnool, Telangana"
-        self.education = "Diploma in Engineering @ Samskruti College"
-        self.specialties = [
-            "Generative AI", 
-            "Full-Stack Development",
-            "Cybersecurity",
-            "Intelligent Automation"
+        self.alias = "Full-Stack Developer | ML Engineer | Hacker"
+        self.zone = "Nagarkurnool, India"
+        self.learning = "Engineering @ Samskruti College"
+        self.arsenal = [
+            "Autonomous AI Systems",
+            "Backend Infrastructures",
+            "Advanced Cybersecurity",
+            "Agentic Workflows"
         ]
 
-    def mission(self):
-        return "To push technological boundaries while maintaining ethical integrity"
+    def quest(self):
+        return "Architecting ethical and scalable technologies for next-gen intelligence"
 ```
 
 ---
 
-## ⚡ Cyber Toolkit
+## ⚙️ STACK OVERLOAD
 
-### 🧠 AI/ML Dominance
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
-▸ Local LLMs (Ollama, DeepSeek, Mistral)  
-▸ RAG Architectures • Stable Diffusion • Computer Vision
+### 🎯 AI / ML Warriors
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSI+PHBhdGg+PC9wYXRoPjwvc3ZnPg==)
+▸ LLMs (DeepSeek, Mistral) ▸ Whisper ▸ RAG Pipelines ▸ Diffusion Models
 
-### 🌐 Full-Stack Warfare
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-▸ Real-time Systems • REST APIs • 3D Web Interfaces
+### 🕸 Full-Stack Universe
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+▸ REST APIs ▸ LangChain Frontends ▸ Realtime Systems
 
-### 🔐 Cybersecurity Arsenal
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-EE1C25?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)  
-▸ Penetration Testing • Bug Bounty • Network Security
+### 🛡 Offensive Arsenal
+![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)
+![Burp Suite](https://img.shields.io/badge/-Burp_Pro-FCA121?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/-Metasploit-EC1C24?style=for-the-badge)
+▸ Bug Bounties ▸ SQLi ▸ XSS ▸ Reverse Shell
 
-### ⚙️ Automation Engine
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-00C853?style=for-the-badge)  
-▸ AI Agents • WhatsApp Bots • CI/CD Pipelines
-
----
-
-## 📊 Battle Statistics
-<div align="center">
-  
-| **Metric**          | **Status**              |
-|---------------------|-------------------------|
-| Code Hours          | `10000+`               |
-| Projects Deployed   | `50+`                  |
-| Hackathons Won      | `5`                    |
-| Certifications      | `10+`                  |
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
-
-</div>
+### 🔁 Automation Infrastructure
+![n8n](https://img.shields.io/badge/-n8n-00C853?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions)
+▸ WhatsApp Bots ▸ LLM Agents ▸ Zapier-style triggers
 
 ---
 
-## 🏆 Champion Projects
+## 🧮 DATA SNAPSHOT
 
-### 🌕 LunaGuard - AI Lunar Analysis
-[![LunaGuard](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=LunaGuard&theme=midnight-purple)](https://github.com/yourusername/LunaGuard)  
-▸ ISRO Hackathon Winner • Chandrayaan Data Processing
-
-### 🤖 Omnix - Voice AI Assistant
-[![Omnix](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Omnix&theme=midnight-purple)](https://github.com/yourusername/Omnix)  
-▸ Whisper + LLM + 3D UI • Real-time Voice Processing
-
-### 🔗 ShadowPulse - Blockchain Revolution
-[![ShadowPulse](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ShadowPulse&theme=midnight-purple)](https://github.com/yourusername/ShadowPulse)  
-▸ Smart Contracts • Transparent Fund Distribution
-
----
-
-## 📜 Certifications & Honors
-```diff
-+ 🏆 NESSO GenAI Hackathon Champion
-+ 🏆 Google Solution Challenge Winner
-+ 📜 ISRO Certified - AI/ML Specialist
-+ 📜 Tata Problem Solving Certification
-+ ⚡ Microsoft Learn • Google Cloud • AWS Certified
+```yaml
+Contributions: "10,000+"
+Hackathons: "Won 5+ | Participated 15+"
+Certifications:
+  - ISRO AI/ML
+  - Tata Consultancy Problem Solving
+  - Microsoft / Google Cloud / AWS
 ```
-
----
-
-## 🌌 Current Missions
-```mermaid
-graph TB
-    A[AI Research] --> B[Multimodal Agents]
-    A --> C[Voice Computing]
-    D[Web3 Security] --> E[Smart Contract Auditing]
-    F[Automation] --> G[No-Code AI Workflows]
-```
-
----
-
-## 📱 Contact the Control Center
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-## 💬 Philosophy
-> *"Technology should be like oxygen - invisible, essential, and empowering for all."*  
-> *My code doesn't just solve problems - it rewrites possibilities.*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VISITS&color=blueviolet&style=flat" alt="Profile Visits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/tech-wave.gif" width="600px">
-</div>
+---
+
+## 🧠 FEATURED TECH INITIATIVES
+
+### 🔭 LunaGuard (ISRO Hackathon Winner)
+> Chandrayaan Data Processor | Moon Landslide AI Detection | Satellite Vision Modeling
+
+### 🗣 Omnix
+> Multimodal AI Assistant | Whisper + LLM + Gradio UI | Real-time Transcription to Visuals
+
+### 🔐 ShadowPulse
+> Blockchain-based Fund Flow | Smart Contract Validator | Transparency Tech for Governance
+
+---
+
+## 🛸 ACTIVE QUESTS
+```mermaid
+graph TD
+    Q1[Auto RAG & LangGraph Agents] --> Q2[n8n + Voice Assistant Bots]
+    Q1 --> Q3[LLM-Powered Crawlers]
+    Q3 --> Q4[Prompt Injected Defense Models]
+```
+
+---
+
+## 🌐 CONNECT WITH SIDDU'S NETWORK
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+[![Mail](https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Web](https://img.shields.io/badge/-Portfolio-0F9D58?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourdomain.com)
+
+---
+
+## 🎯 BELIEF
+> "You don’t just write code—you architect futures."
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors+Counter&color=green" />
+</p>
+****
