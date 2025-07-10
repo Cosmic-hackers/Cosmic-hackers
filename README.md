@@ -35,7 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmic-hackers&theme=tokyonight)](https://git.io/streak-stats)
+<!-- GitHub Metrics SVG -->
+<img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
