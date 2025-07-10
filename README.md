@@ -35,8 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmic-hackers&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 <p align="center">
