@@ -1,10 +1,3 @@
-Sure, Siddu! Here's a **highly professional and captivating `README.md`** for your GitHub profile `@Cosmic-hackers` that will **impress visitors at first glance** and make them *"stuck in awe"*. It highlights your expertise in AI, Cybersecurity, Robotics, and Innovation — in a **clean, animated, and impactful way**.
-
----
-
-````md
-<!-- Cosmic-hackers | README.md -->
-
 <h1 align="center">
   🚀 Cosmic Hackers 🌌
 </h1>
