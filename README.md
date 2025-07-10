@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner1.png" alt="Welcome to My GitHub!" width="100%" />
-</p>
+</p> -->
 
 
 ### 👋 Hi, I’m Siddu Yadagiri (aka Mr ANONYMOUS)
