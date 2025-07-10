@@ -35,9 +35,15 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- GitHub Metrics SVG -->
-<img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<!-- Streaks -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cosmic-hackers&theme=dark" />
+</p>
 
+<!-- Snake contribution graph -->
+<p align="center">
+  <img src="https://github.com/Cosmic-hackers/Cosmic-hackers/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <p align="center">
