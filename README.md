@@ -74,9 +74,6 @@ Welcome to the cosmic realm. Type --help to explore.
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
-[![Artisan Proverbs](https://img.shields.io/badge/📜-Read_The_Scroll-blue)](https://)
-> "The best code is written between midnight and dawn,  
-> when the veil between worlds is thinnest"
 ---
 ### 🎮 Coder's Quest RPG
 
@@ -127,10 +124,6 @@ Welcome to the cosmic realm. Type --help to explore.
 2024-07-13: Failed "CI Pipeline" boss fight
 ```
 
-#### 🎲 Mini-Game: Attack the Bug
-<!-- Hidden game - appears when clicked -->
-<details>
-<summary>🔧 Type ./debug.sh</summary>
 
 ```bash
 $ ./debug.sh
