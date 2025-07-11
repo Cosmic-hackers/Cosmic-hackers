@@ -1,0 +1,14 @@
+name: RPG Updater
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily updates
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          echo "EXP: ████████ 80%" >> README.md
+          git config user.name "RPG Bot"
+          git commit -am "Daily XP Update"
+          git push
