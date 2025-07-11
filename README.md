@@ -49,13 +49,23 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 🛰️ Featured Projects (Interactive Table)
 
-| Project | Description | Live Demo |
-|---------|-------------|----------|
-| **🌑 LunaGuard** | AI lunar landslide detection | [![Open in Spaces](https://img.shields.io/badge/%F0%9F%94%8D-Demo-blue)](https://) |
-| **🧠 Omnix** | Voice AI assistant | [![Open in Spaces](https://img.shields.io/badge/%F0%9F%8E%99-Demo-green)](https://) |
-| **🔐 ShadowPulse** | Blockchain fund tracker | [![Open in Spaces](https://img.shields.io/badge/%F0%9F%94%91-Demo-purple)](https://) |
-
 ---
+
+### 🚀 Signature Projects
+
+| 🛰 Project                        | 🔍 Description                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------|
+| 🌑 **LunaGuard**                 | AI-powered lunar landslide detection using Chandrayaan images *(ISRO Hackathon)* |
+| 🧠 **Omnix**                     | Online AI voice assistant for natural conversation using |
+| 🔐 **ShadowPulse**              | Blockchain-based fund distribution platform ensuring transparent & secure transfers |
+| 🧿 **Sanatana Awakening**       | AI-driven digital revival of the Indian Gurukul system and ancient Vedic knowledge |
+| 🌌 **Nebula Vision**            | Interactive platform for visualizing DSA (Data Structures & Algorithms) through immersive animation |
+| 🧠 **Deep Researcher**          | Private AI research tool powered by Ollama + DeepSeek for offline intelligence gathering |
+| 🖤 **Dark Society**             | A tech-based OSINT engine exploring suppressed truths, hidden agendas & conspiracies |
+| 📰 **Hidden Truths Journalism** | Investigative digital journalism built with AI to challenge mainstream narratives |
+| 🔊 **Sonic Vision AI**          | Voice-to-image generator using Whisper + Stable Diffusion, wrapped in 3D-enhanced UI *(formerly Audio-to-Image)* |
+| 🎬 **Cosmoss VFX & Animation**  | A creative lab under Cosmoss Innovations focused on cinematic VFX, motion design & sci-fi themed visual storytelling |
+
 
 ### 📊 GitHub Pulse (Live Stats)
 <div align="center">
