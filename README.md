@@ -47,6 +47,11 @@ Welcome to the cosmic realm. Type --help to explore.
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/tech-sphere.svg" width="250" alt="3D Tech Sphere">
 </div>
+
+
+<p align="center">
+  <img src="https://skill-icons.dev/icons?i=python,js,tensorflow,blockchain,ai,git&theme=dark&perline=6&animate=true"/>
+</p>
 ---
 
 ### 🛰️ Featured Projects (Interactive Table)
