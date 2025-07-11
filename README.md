@@ -79,9 +79,9 @@ Welcome to the cosmic realm. Type --help to explore.
  \  ^  /   Into Cosmic Wisdom
   |||||
 ```
-
+### 🎨 Cyber Mandala
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/cyber-mandala.svg" width="200" alt="Cyber Mandala">
+  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
 
 ---
