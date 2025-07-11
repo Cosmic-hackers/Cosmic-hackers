@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Interactive Terminal
+
 ```bash
 npx cosmic-hackers@latest --init
 ```
@@ -65,9 +65,6 @@ Welcome to the cosmic realm. Type --help to explore.
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical&hide_border=true)
   
-  <!-- Wakatime Stats -->
-  <img src="https://wakatime.com/share/@CosmicHackers/abcdef12-3456-7890-1234-567890abcdef.svg" width="50%"/>
-</div>
 
 ---
 
