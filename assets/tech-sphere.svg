@@ -20,8 +20,8 @@
   <!-- Visible Orbiting Icons -->
   <g class="orbit">
     <!-- Python -->
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="50" y="50" class="icon"/>
-    <!-- JavaScript -->
+   <!-- Replace image tags with embedded base64 -->
+<image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDov...[truncated]..." x="50" y="50" width="24" height="24"/> 
     <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="250" y="80" class="icon"/>
     <!-- TensorFlow -->
     <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" x="220" y="250" class="icon"/>
