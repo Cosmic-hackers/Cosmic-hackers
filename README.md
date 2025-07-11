@@ -160,31 +160,3 @@ npm install # Install cosmic dependencies
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </div>
-```
-
----
-
-### 🛠️ **Assets You'll Need to Add**:
-1. **Animated SVGs** (upload to your repo):
-   - `tech-sphere.svg` (3D rotating tech stack)
-   - `cyber-mandala.svg` (tech-art piece)
-   - `achievement-ribbons.svg` (animated ribbons)
-
-2. **GitHub Actions** (for auto-updates):
-   - Wakatime stats
-   - Random quote/joke generator
-
-3. **Shields.io Badges** (customize colors)
-
----
-
-### ✨ **Key Upgrades**:
-✅ **Terminal-like interactivity**  
-✅ **3D animated tech stack**  
-✅ **Live coding stats (Wakatime)**  
-✅ **Artistic tech ASCII/svg elements**  
-✅ **Dynamic project tables with demo links**  
-✅ **Star-history growth graph**  
-✅ **Twinkling footer animation**  
-
-Want me to create the **SVG assets** or help set up the **GitHub Actions**? 🚀
