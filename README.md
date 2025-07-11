@@ -128,6 +128,16 @@ while(true) {
 </div>
 ```
 
+### 📅 GitHub Contribution Graph
+
+<a href="https://github.com/Cosmic-hackers">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical" width="49%" />
+</a>
+<a href="https://github.com/Cosmic-hackers">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Cosmic-hackers&theme=github&area=true" width="100%" />
+</a>
+
+
 ---
 
 ✅ **Instructions to Use**:
