@@ -70,14 +70,20 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 🎨 Tech Artisan Corner
 ```text
-
   _____
  /     \   AI Alchemy
 | () () |  Transforming 1s & 0s
  \  ^  /   Into Cosmic Wisdom
   |||||
-
 ```
+```text
+  ╭────────────────╮
+  │  ◈─◈─◈─◈─◈  │
+  │  ◈  TECH  ◈  │
+  │  ◈─◈─◈─◈─◈  │
+  ╰────────────────╯
+```
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
