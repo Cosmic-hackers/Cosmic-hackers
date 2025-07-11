@@ -111,8 +111,9 @@ Welcome to the cosmic realm. Type --help to explore.
   <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
     <img src="https://custom-icon-badges.demolab.com/badge/🌌_Cosmic_Hacker-1F6FEB?style=for-the-badge&logo=cosmos" alt="Cosmic Hacker"/>
   </a>
-[![AI Whisperer](https://img.shields.io/badge/🔮_AI_Whisperer-1F6FEB?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)](https://)
-  
+  <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
+  <img src="https://custom-icon-badges.demolab.com/badge/🌌_Cosmic_Hacker-1F6FEB?style=for-the-badge&logo=terminal&logoColor=white" alt="Cosmic Hacker"/>
+</a>
 </div>
 
 
