@@ -49,15 +49,6 @@ Welcome to the cosmic realm. Type --help to explore.
 </div>
 
 
-<p align="center">
-  <img src="https://skill-icons.dev/icons?i=python,js,tensorflow,blockchain,ai,git&theme=dark&perline=6&animate=true"/>
-</p>
-
-<!-- Add this HTML comment to your README -->
-<!-- Requires GitHub's limited HTML support -->
-<div align="center">
-  <img src="https://readme-3d-card.vercel.app/api?username=Cosmic-hackers&theme=radical" width="400"/>
-</div>
 ---
 
 ### 🛰️ Featured Projects (Interactive Table)
