@@ -128,6 +128,9 @@ while(true) {
 </div>
 ```
 
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-compact&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true" />
 
 
