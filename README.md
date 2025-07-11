@@ -70,20 +70,14 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 🎨 Tech Artisan Corner
 ```text
-  _____
- /     \   AI Alchemy
-| () () |  Transforming 1s & 0s
- \  ^  /   Into Cosmic Wisdom
-  |||||
-```
-```text
   ╭────────────────╮
   │  ◈─◈─◈─◈─◈  │
   │  ◈  TECH  ◈  │
   │  ◈─◈─◈─◈─◈  │
   ╰────────────────╯
 ```
-
+[![Cosmic Weaver](https://img.shields.io/badge/🔮-Latest_Project-purple)](https://)
+> "An AI that converts Vedic mantras into quantum circuits"
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
