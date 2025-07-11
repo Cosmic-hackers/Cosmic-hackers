@@ -1,1 +1,24 @@
-
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes orbit {
+      0% { transform: rotate(0deg) translateX(100px) rotate(0deg); }
+      100% { transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+    }
+    .icon {
+      width: 30px;
+      height: 30px;
+      animation: orbit 15s linear infinite;
+    }
+  </style>
+  
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="100" fill="none" stroke="#58A6FF" stroke-width="2"/>
+  
+  <!-- Visible Icons -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon" style="animation-delay: 0s"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="icon" style="animation-delay: -5s"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" class="icon" style="animation-delay: -10s"/>
+  
+  <!-- Center Text -->
+  <text x="150" y="155" font-size="16" fill="#58A6FF" text-anchor="middle">TECH ORBIT</text>
+</svg>
