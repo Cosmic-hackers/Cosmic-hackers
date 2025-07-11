@@ -93,7 +93,7 @@ Welcome to the cosmic realm. Type --help to explore.
 </div>
 
 
-### 🏆 Trophy Case (3D Achievements)
+### 🏆 Trophy Case 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true" alt="Trophies"/>
   
