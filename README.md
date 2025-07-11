@@ -128,22 +128,7 @@ while(true) {
 </div>
 ```
 
-### 📅 GitHub Contribution Graph
-
-<a href="https://github.com/Cosmic-hackers">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical" width="49%" />
-</a>
-<a href="https://github.com/Cosmic-hackers">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cosmic-hackers&theme=github&area=true" width="100%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-compact&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true" />
 
 
----
 
-✅ **Instructions to Use**:
-
-1. Create a new repo named `Cosmic-hackers`.
-2. Add this content into `README.md`.
-3. Push to GitHub and you're live.
-
-Would you like a **banner GIF**, **preview card**, or a **one-click deploy portfolio** next?
