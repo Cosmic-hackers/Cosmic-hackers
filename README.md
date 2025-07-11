@@ -43,10 +43,6 @@ Welcome to the cosmic realm. Type --help to explore.
   <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,docker,raspberrypi,arduino,solidity,flask,react,kubernetes&theme=dark&perline=6"/>
 </p>
 
-<!-- 3D Tech Sphere (Ensure path is correct) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/tech-sphere.svg" width="250" alt="3D Tech Sphere">
-</div>
 
 
 ---
