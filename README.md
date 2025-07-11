@@ -79,6 +79,9 @@ Building for **truthful tech**, bridging ancient knowledge and futuristic code.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true" />
 </p>
 
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
+
 ---
 
 ### 🏅 GitHub Trophies
@@ -127,11 +130,5 @@ while(true) {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
 ```
-
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-compact&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true" />
-
 
 
