@@ -1,0 +1,21 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .orbit { animation: spin 20s linear infinite; transform-origin: 50% 50%; }
+    @keyframes spin { 100% { transform: rotate(360deg); } }
+    .icon { filter: drop-shadow(0 0 2px #58A6FF); }
+  </style>
+  
+  <!-- Background Sphere -->
+  <circle cx="50" cy="50" r="45" fill="#0d1117" stroke="#58A6FF" stroke-width="0.5"/>
+  
+  <!-- Orbiting Tech Icons -->
+  <g class="orbit">
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="5" y="5" width="10" height="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="85" y="20" width="10" height="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" x="70" y="80" width="10" height="10" class="icon"/>
+    <!-- Add more icons as needed -->
+  </g>
+  
+  <!-- Center Text -->
+  <text x="50" y="55" font-size="8" fill="#58A6FF" text-anchor="middle" font-family="Arial">TECH SPHERE</text>
+</svg>
