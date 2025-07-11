@@ -96,10 +96,22 @@ Welcome to the cosmic realm. Type --help to explore.
 ### 🏆 Trophy Case 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true" alt="Trophies"/>
+<div align="center">
   
-  ![Achievements](https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/achievement-ribbons.svg)
+  <!-- Main Trophy Row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true" alt="Trophies"/>
+  
+  <!-- Custom Achievement Row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&column=7&title=Stars,Repos,Followers,Commits,PullRequests,Issues,Reviews" alt="Custom Achievements"/>
+  
+  <!-- Special Cosmic Trophies -->
+  <a href="https://github.com/Cosmic-hackers?achievement=quantum-coder&title=Quantum+Coder">
+    <img src="https://custom-icon-badges.demolab.com/badge/⚛️_Quantum_Coder-58A6FF?style=for-the-badge&logo=quantum" alt="Quantum Coder"/>
+  </a>
+  <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
+    <img src="https://custom-icon-badges.demolab.com/badge/🌌_Cosmic_Hacker-1F6FEB?style=for-the-badge&logo=cosmos" alt="Cosmic Hacker"/>
+  </a>
 </div>
-
 ---
 
 ### 🌠 Cosmic Wisdom
