@@ -37,15 +37,16 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ---
 
-### 🌌 Tech Cosmos (Animated Stack)
+### 🌌 Tech Cosmos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,docker,raspberrypi,arduino,solidity,flask,react,kubernetes,ai,git,github,linux&theme=dark&perline=8" alt="Tech Stack" />
+  <!-- Skill Icons Row -->
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,docker,raspberrypi,arduino,solidity,flask,react,kubernetes&theme=dark&perline=6"/>
 </p>
 
+<!-- 3D Tech Sphere (Ensure path is correct) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/tech-sphere.svg" width="300" alt="3D Tech Sphere">
+  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/tech-sphere.svg" width="250" alt="3D Tech Sphere">
 </div>
-
 ---
 
 ### 🛰️ Featured Projects (Interactive Table)
