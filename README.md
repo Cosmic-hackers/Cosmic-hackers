@@ -69,13 +69,7 @@ Welcome to the cosmic realm. Type --help to explore.
 ---
 
 ### 🎨 Tech Artisan Corner
-```text
-```
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
-</div>
----
-### 🎮 Coder's Quest RPG
+
 
 ```text
   ╔══════════════════════════════╗
@@ -94,47 +88,9 @@ Welcome to the cosmic realm. Type --help to explore.
   ╚══════════════════════════════╝
 ```
 
-#### 🎯 Active Quests
-```diff
-+ MAIN QUEST: Build Quantum API Gateway
-! SIDE QUEST: Fix CSS in Parallel Universe
-# COMPLETED: Defeated Python GIL Monster
-```
-
-#### 🛡️ Equipment
-```text
-[⚔]  GPT-4 Tome (+15 INT)  
-[🛡]  Docker Shield (+10 DEF)  
-[🧪]  Elixir of Stack Overflow  
-[🔮]  Kubernetes Orb of Scaling
-```
-
-#### 🏆 Achievements
-```markdown
-▣ [x] Compiled Hello World in Brainfuck  
-▣ [x] Survived 48hr Hackathon  
-▣ [ ] Push Code to Production on Friday  
-▣ [ ] Fix Someone Else's Regex
-```
-
-#### ⚔️ Battle Log
-```bash
-2024-07-15: CRIT! One-shot "Memory Leak"  
-2024-07-14: Escaped "Deadlock" trap  
-2024-07-13: Failed "CI Pipeline" boss fight
-```
-
-
-```bash
-$ ./debug.sh
-Rolling... You got 14!
-[=====] Bug HP: 32 → 18
-The NullPointerException shrieks!
-```
-</details>
-```
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
+</div>
 
 
 ### 🏆 Trophy Case (3D Achievements)
