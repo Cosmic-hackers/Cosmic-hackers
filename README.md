@@ -88,6 +88,11 @@ Building for **truthful tech**, bridging ancient knowledge and futuristic code.
 
 ### 🏅 GitHub Trophies
 
+### 🏆 Trophy Case  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
