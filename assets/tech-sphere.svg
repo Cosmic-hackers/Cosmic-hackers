@@ -15,7 +15,7 @@
   <circle cx="150" cy="150" r="100" fill="none" stroke="#58A6FF" stroke-width="2"/>
   
   <!-- Visible Icons -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon" style="animation-delay: 0s"/>
+  <image href="https://imgs.search.brave.com/LWWF1Dh7JH3Jc7PWyPZimIajVljUOEXENpV7lYU0OSY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcyLzgw/LzJkLzcyODAyZDFl/YjliMGM5ODk5MTRi/ZGE4ZWYxYzZiMGFj/LmpwZw": 0s"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="icon" style="animation-delay: -5s"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" class="icon" style="animation-delay: -10s"/>
   
