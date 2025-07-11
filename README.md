@@ -33,6 +33,10 @@ Building for **truthful tech**, bridging ancient knowledge and futuristic code.
 
 ### 🛠️ Tech Arsenal
 
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,docker,raspberrypi,arduino,solidity,flask,react,kubernetes&theme=dark&perline=6" />
+</p>
 ```txt
 💻 Languages: Python, JavaScript, C++, Bash, HTML, CSS
 🔐 Cybersecurity: Ethical Hacking, Nmap, Hydra, SQLMap, OSINT, Kali Linux
