@@ -37,7 +37,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ---
 
-### 🌌 Tech Cosmos
+###  Tech Stack
 <p align="center">
   <!-- Skill Icons Row -->
   <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,docker,raspberrypi,arduino,solidity,flask,react,kubernetes&theme=dark&perline=6"/>
