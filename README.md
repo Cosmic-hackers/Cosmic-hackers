@@ -1,8 +1,4 @@
-Here’s your **next-level enhanced GitHub README**, blending **animations, interactivity, and cosmic-tech artistry** while preserving your original essence:
 
----
-
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+MR+ANONYMOUS;%F0%9F%94%A5+Cosmic+Hacker" alt="Animated Header" />
 </h1>
@@ -161,13 +157,3 @@ npm install # Install cosmic dependencies
 
 ---
 
-### ✨ **Key Upgrades**:
-✅ **Terminal-like interactivity**  
-✅ **3D animated tech stack**  
-✅ **Live coding stats (Wakatime)**  
-✅ **Artistic tech ASCII/svg elements**  
-✅ **Dynamic project tables with demo links**  
-✅ **Star-history growth graph**  
-✅ **Twinkling footer animation**  
-
-Want me to create the **SVG assets** or help set up the **GitHub Actions**? 🚀
