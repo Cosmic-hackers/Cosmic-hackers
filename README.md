@@ -70,23 +70,13 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 🎨 Tech Artisan Corner
 ```text
-  ╭────────────────╮
-  │  ◈─◈─◈─◈─◈  │
-  │  ◈  TECH  ◈  │
-  │  ◈─◈─◈─◈─◈  │
-  ╰────────────────╯
 ```
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
-
-while [ $creativity -gt 0 ]
-do
-  forge_code()   → "Digital Mandalas"
-  hack_systems() → "Ethical Explorations"
-  awaken_ai()    → "Conscious Machines"
-done
-<p align="center"> <!-- Animated Circuit SVG --> <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/circuit-mandala.svg" width="300" alt="Circuit Mandala"> </p>
+[![Artisan Proverbs](https://img.shields.io/badge/📜-Read_The_Scroll-blue)](https://)
+> "The best code is written between midnight and dawn,  
+> when the veil between worlds is thinnest"
 ---
 
 ### 🏆 Trophy Case (3D Achievements)
