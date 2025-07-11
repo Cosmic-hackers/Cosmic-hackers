@@ -76,12 +76,17 @@ Welcome to the cosmic realm. Type --help to explore.
   │  ◈─◈─◈─◈─◈  │
   ╰────────────────╯
 ```
-[![Cosmic Weaver](https://img.shields.io/badge/🔮-Latest_Project-purple)](https://)
-> "An AI that converts Vedic mantras into quantum circuits"
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
 
+while [ $creativity -gt 0 ]
+do
+  forge_code()   → "Digital Mandalas"
+  hack_systems() → "Ethical Explorations"
+  awaken_ai()    → "Conscious Machines"
+done
+<p align="center"> <!-- Animated Circuit SVG --> <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/circuit-mandala.svg" width="300" alt="Circuit Mandala"> </p>
 ---
 
 ### 🏆 Trophy Case (3D Achievements)
