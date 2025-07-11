@@ -120,7 +120,7 @@ Welcome to the cosmic realm. Type --help to explore.
 </div>
 
 
-### 🌠 Cosmic Wisdom
+### kex musk
 > "The universe is code. We're just the hackers."  
 > — *MR ANONYMOUS, 2025*
 
@@ -130,7 +130,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ---
 
-### 📡 Connect With the Cosmos
+### 📡 Connect With the ME
 <p align="center">
   <a href="https://linkedin.com/in/siddu-yadagiri">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
