@@ -69,9 +69,8 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 📊 GitHub Pulse (Live Stats)
 <div align="center">
+
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cosmic-hackers&theme=radical&hide_border=true&background=0d1117" width="48%"/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical&hide_border=true)
 
