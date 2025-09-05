@@ -88,8 +88,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
 </div>
 
-<div align="center">
-### 🎨 Tech Artisan Corner
+ ### 🎨 Tech Artisan Corner
 
 
 ```text
