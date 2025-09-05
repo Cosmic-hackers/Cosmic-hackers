@@ -72,9 +72,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
   
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical&hide_border=true)
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-compact&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true" />
+  
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
 
