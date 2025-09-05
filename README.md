@@ -87,7 +87,11 @@ Welcome to the cosmic realm. Type --help to explore.
 </p>
 
 </div>
+<div align="center">
 
+
+
+<p align="center">
  ### 🎨 Tech Artisan Corner
 
 
@@ -107,7 +111,8 @@ Welcome to the cosmic realm. Type --help to explore.
   ║                              ║
   ╚══════════════════════════════╝
 ```
-
+</p>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
 </div>
