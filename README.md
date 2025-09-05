@@ -87,28 +87,53 @@ Welcome to the cosmic realm. Type --help to explore.
 
 </div>
 
- ###  Tech Artisan Corner
-
+### 🎮 Tech Artisan RPG Terminal
 
 ```text
-  ╔══════════════════════════════╗
-  ║      ░▒▓█ COSMIC CODER █▓▒░  ║
-  ╟──────────────────────────────╢
-  ║                              ║
-  ║    /\_/\     Level: 99       ║
-  ║   ( o.o )    Class: AI Mage  ║
-  ║    > ^ <     EXP: █████▉ 95% ║
-  ║                              ║
-  ║  [1] Hack The Gibson         ║
-  ║  [2] Train Neural Dragon     ║
-  ║  [3] Deploy to Cloud Castle  ║
-  ║  [4] Meditate (Debug Mode)   ║
-  ║                              ║
-  ╚══════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║ ░▒▓█► COSMIC CODER TERMINAL v2.0 ◄█▓▒░          ║
+╟──────────────────────────────────────────────────╢
+║                                                  ║
+║    ╭──────────────────────────────────────────╮  ║
+║    │  CHARACTER PROFILE                       │  ║
+║    │                                          │  ║
+║    │  👤 Name:    Cosmic_Hacker               │  ║
+║    │  ⚡ Level:   99 AI Archmage               │  ║
+║    │  🌌 EXP:    ██████████ 98%               │  ║
+║    │  💾 Class:  Neural Network Sorcerer      │  ║
+║    │  🔮 Guild:  Cosmoss Innovations          │  ║
+║    ╰──────────────────────────────────────────╯  ║
+║                                                  ║
+║    ╭───────────── QUEST LOG ────────────────╮    ║
+║    │ ✅ Main Quest: Build Quantum API        │    ║
+║    │ ⏳ Side Quest: Fix CSS in Multiverse    │    ║
+║    │ 🎯 Daily: Commit 5+ Cosmic Codes       │    ║
+║    ╰────────────────────────────────────────╯    ║
+║                                                  ║
+║    ╭───────────── INVENTORY ────────────────╮    ║
+║    │ ⚔️  GPT-4 Tome (+15 INT)               │    ║
+║    │ 🛡️  Docker Shield (+10 DEF)            │    ║
+║    │ 🧪 Elixir of Stack Overflow (3 uses)   │    ║
+║    │ 🔮 Kubernetes Orb of Scaling           │    ║
+║    ╰────────────────────────────────────────╯    ║
+║                                                  ║
+║    ► [1] Hack The Mainframe                     ║
+║    ► [2] Train Neural Dragon                    ║  
+║    ► [3] Deploy to Cloud Castle                 ║
+║    ► [4] Meditate (Debug Mode)                  ║
+║    ► [5] Check Server Status                    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+
 ```
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cosmic-hackers/Cosmic-hackers/main/assets/cyber-mandala.svg" width="250" alt="Cyber Mandala">
-</div>
++ HP: ██████████ 100%   [GitHub Streak: 120+ days]
++ MP: ███████▌ 85%      [Code Energy: High]
+! Gold: 2,450           [Repo Value: $∞]
+# Skills: Python ██████████, AI ████████▌, Cloud █████▌
+
+✔ [VICTORY] Defeated "Docker Kraken" +150 EXP
+✔ [VICTORY] Solved "Infinite Loop Labyrinth" +75 EXP  
+⏳ [BOSS FIGHT] Battling "Kubernetes Cluster Crash"
 
 
 ### 🏆 Trophy Case 
