@@ -69,11 +69,6 @@ Welcome to the cosmic realm. Type --help to explore.
 
 ### 📊 GitHub Pulse (Live Stats)
 <div align="center">
-
-  
-  
-  
-
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
 
 ---
