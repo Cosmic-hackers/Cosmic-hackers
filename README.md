@@ -66,7 +66,48 @@ Welcome to the cosmic realm. Type --help to explore.
 | 🔊 **Sonic Vision AI**          | Voice-to-image generator using Whisper + Stable Diffusion, wrapped in 3D-enhanced UI *(formerly Audio-to-Image)* |
 | 🎬 **Cosmoss VFX & Animation**  | A creative lab under Cosmoss Innovations focused on cinematic VFX, motion design & sci-fi themed visual storytelling |
 
+## 📊 GitHub Cosmic Metrics
 
+<div align="center">
+
+### 🚀 Live Activity Feed
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=FFD33D" width="90%"/>
+
+### ⚡ Real-time Stats
+<!-- Dynamic Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1F6FEB&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cosmic-hackers&theme=radical&hide_border=true&background=0d1117&stroke=1F6FEB&fire=FFD33D&ring=58A6FF&currStreakLabel=58A6FF" width="48%"/>
+
+### 🌟 Language Mastery
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&hide=html,css" width="50%"/>
+
+### 🏆 Trophy Collection
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true&row=2" width="90%"/>
+
+### 📈 Contribution Analytics
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cosmic-hackers&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cosmic-hackers&theme=github_dark" width="45%"/>
+
+### 🕐 Weekly Development Analytics
+<!-- WakaTime Stats (Requires Setup) -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff" width="60%"/>
+-->
+
+### 🌌 Visitor Galaxy
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cosmic-hackers&label=COSMIC+VISITORS&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Cosmic-hackers?label=FOLLOWERS&color=58A6FF&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Cosmic-hackers?label=TOTAL+STARS&color=FFD33D&style=for-the-badge" alt="Total Stars"/>
+</p>
+
+</div>
 
 
 ### 🎨 Tech Artisan Corner
