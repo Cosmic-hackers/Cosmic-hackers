@@ -70,7 +70,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
 <div align="center">
 
-### 🚀 Live Activity Feed
+### Live Activity Feed
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=FFD33D" width="90%"/>
 
@@ -79,9 +79,6 @@ Welcome to the cosmic realm. Type --help to explore.
 <img src="https://github-readme-stats.vercel.app/api?username=Cosmic-hackers&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1F6FEB&text_color=ffffff" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Cosmic-hackers&theme=radical&hide_border=true&background=0d1117&stroke=1F6FEB&fire=FFD33D&ring=58A6FF&currStreakLabel=58A6FF" width="48%"/>
 
-### 🌟 Language Mastery
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-hackers&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&hide=html,css" width="50%"/>
 
 ### 🏆 Trophy Collection
 <!-- GitHub Trophies -->
