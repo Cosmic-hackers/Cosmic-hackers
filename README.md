@@ -87,7 +87,7 @@ Welcome to the cosmic realm. Type --help to explore.
 
 </div>
 
-### 🎮 Tech Artisan RPG Terminal
+###  Tech Artisan RPG Terminal
 
 ```text
 ╔══════════════════════════════════════════════════╗
@@ -134,6 +134,15 @@ Welcome to the cosmic realm. Type --help to explore.
 ✔ [VICTORY] Defeated "Docker Kraken" +150 EXP
 ✔ [VICTORY] Solved "Infinite Loop Labyrinth" +75 EXP  
 ⏳ [BOSS FIGHT] Battling "Kubernetes Cluster Crash"
+
+$ ./hack.sh --initiative
+🎯 Rolling D20... You got 17!
+[+++++] Critical Success!
++50 EXP | +3 Intelligence
+New Skill: "Quantum Debugging"
+
+![Auto-Update](https://img.shields.io/badge/SYSTEM_ACTIVE-00ff00?style=for-the-badge&logo=github-actions&logoColor=black)
+*Stats update every 24 hours via GitHub Actions*
 
 
 ### 🏆 Trophy Case 
