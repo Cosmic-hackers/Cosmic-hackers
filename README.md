@@ -151,19 +151,7 @@ Welcome to the cosmic realm. Type --help to explore.
   <!-- Custom Achievement Row -->
   <img src="https://github-profile-trophy.vercel.app/?username=Cosmic-hackers&theme=matrix&column=7&title=Stars,Repos,Followers,Commits,PullRequests,Issues,Reviews" alt="Custom Achievements"/>
   
-  <!-- Special Cosmic Trophies -->
-  <a href="https://github.com/Cosmic-hackers?achievement=quantum-coder&title=Quantum+Coder">
-    <img src="https://custom-icon-badges.demolab.com/badge/⚛️_Quantum_Coder-58A6FF?style=for-the-badge&logo=quantum" alt="Quantum Coder"/>
-  </a>
-  <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
-    <img src="https://custom-icon-badges.demolab.com/badge/_AI_Whisperer-FFD33D?style=for-the-badge&logo=cosmos" alt="Cosmic Hacker"/>
-  </a>
-<a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
-  <img src="https://custom-icon-badges.demolab.com/badge/🌌_Cosmic_Hacker-1F6FEB?style=for-the-badge&logo=terminal&logoColor=white" alt="Cosmic Hacker"/>
-</a>
-</div>
-
-
+  
 ### kex musk
 > "The universe is code. We're just the hackers."  
 > — *MR ANONYMOUS, 2025*
