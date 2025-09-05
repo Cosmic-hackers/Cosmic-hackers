@@ -71,33 +71,10 @@ Welcome to the cosmic realm. Type --help to explore.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=matrix&area=true&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff88" width="90%"/>
-<!-- Hacker Green Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=chartreuse-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff00&line=00cc00&point=00ff88&title_color=00ff00&area_color=00ff0030" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff88&point=00ffcc&title_color=00ff41" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=terminal&area=true&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff88" width="90%"/>
-<!-- Add this before the graph for terminal frame -->
-<div style="border: 2px solid #00ff00; border-radius: 10px; padding: 10px; box-shadow: 0 0 15px #00ff0040;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=chartreuse-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff00&line=00cc00&point=00ff88" width="100%"/>
-</div>
-
-<!-- Requires external hosting for background image -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=chartreuse-dark&area=true&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff88&custom_title=ACCESSING_GITHUB_MATRIX..." width="90%"/>
-
-### 🔋 Hacker Activity Matrix
-<div align="center">
-  
-  <!-- Main Hacker Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=chartreuse-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff00&line=00cc00&point=00ff88&title_color=00ff00" width="90%"/>
-  
   <!-- Hacker Status Badge -->
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-ACTIVE-00ff00?style=for-the-badge&logo=terminal&logoColor=black" alt="System Status"/>
   
 </div>
-### Live Activity Feed
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=FFD33D" width="90%"/>
 
 <!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark" width="90%"/>
