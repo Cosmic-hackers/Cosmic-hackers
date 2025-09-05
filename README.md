@@ -77,8 +77,6 @@ Welcome to the cosmic realm. Type --help to explore.
 
 <!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark" width="90%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cosmic-hackers&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cosmic-hackers&theme=github_dark" width="45%"/>
 
 <!-- Visitor Counter -->
 <p align="center">
