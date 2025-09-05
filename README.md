@@ -158,7 +158,7 @@ Welcome to the cosmic realm. Type --help to explore.
   <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
     <img src="https://custom-icon-badges.demolab.com/badge/_AI_Whisperer-FFD33D?style=for-the-badge&logo=cosmos" alt="Cosmic Hacker"/>
   </a>
-  <a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
+<a href="https://github.com/Cosmic-hackers?achievement=cosmic-hacker&title=Cosmic+Hacker">
   <img src="https://custom-icon-badges.demolab.com/badge/🌌_Cosmic_Hacker-1F6FEB?style=for-the-badge&logo=terminal&logoColor=white" alt="Cosmic Hacker"/>
 </a>
 </div>
