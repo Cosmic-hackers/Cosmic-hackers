@@ -67,11 +67,7 @@ Welcome to the cosmic realm. Type --help to explore.
 | 🎬 **Cosmoss VFX & Animation**  | A creative lab under Cosmoss Innovations focused on cinematic VFX, motion design & sci-fi themed visual storytelling |
 
 
-### 📊 GitHub Pulse (Live Stats)
-<div align="center">
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cosmic-hackers&theme=github_dark)
 
----
 
 ### 🎨 Tech Artisan Corner
 
