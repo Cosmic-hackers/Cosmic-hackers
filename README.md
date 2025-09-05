@@ -69,17 +69,16 @@ Welcome to the cosmic realm. Type --help to explore.
 ## 📊 GitHub Cosmic Metrics
 
 <div align="center">
-###  Live Activity Feed
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=FFD33D" width="90%"/>
+
+
 ### Live Activity Feed
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmic-hackers&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=FFD33D" width="90%"/>
 
 <!-- WakaTime Stats (Requires Setup) -->
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff" width="60%"/>
--->
+
 
 <!-- Visitor Counter -->
 <p align="center">
