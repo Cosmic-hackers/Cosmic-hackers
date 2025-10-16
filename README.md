@@ -161,23 +161,6 @@ Welcome to the cosmic realm. Type --help to explore.
 </div>
 
 ---
-
-### 📡 Connect With the ME
-<p align="center">
-  <a href="https://linkedin.com/in/siddu-yadagiri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/cosmic_hackers">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@cosmic-hackers">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://resonant-pavlova-6c6c22.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 🪐 Support the Mission
